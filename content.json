@@ -1,0 +1,17 @@
+{
+  "title": "Kotlin Snippets",
+  "items": [
+    {
+      "id": "hello_bash",
+      "title": "Hello World (Bash)",
+      "code": "echo 'Hello, World!'",
+      "language": "bash"
+    },
+    {
+      "id": "compose_button",
+      "title": "Compose Button",
+      "code": "@Composable\nfun Greeting() {\n  Text(\"Hello\")\n}",
+      "language": "kotlin"
+    }
+  ]
+}
