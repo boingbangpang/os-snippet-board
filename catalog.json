@@ -2,7 +2,7 @@
   {
     "id": "snippets_001",
     "name": "Kotlin Snippets",
-    "repoUrl": "https://raw.githubusercontent.com/boingbangpang/os-snippet-board/main",
+    "repoUrl": "https://raw.githubusercontent.com/boingbangpang/os-snippet-board",
     "commitSha": "e48b369d4af667a1ec65a24a9bea870849887550",
     "manifestFile": "content.json",
     "contentType": "code_snippet",
