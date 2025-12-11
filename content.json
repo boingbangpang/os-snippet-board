@@ -1,17 +1,25 @@
 {
   "title": "Kotlin Snippets",
-  "items": [
+  "categories": [
     {
-      "id": "hello_bash",
-      "title": "Hello World (Bash)",
-      "code": "echo 'Hello, World!'",
-      "language": "bash"
-    },
+      "id": "ui",
+      "name": "UI Components",
+      "description": "Jetpack Compose UI snippets",
+      "snippetCount": 2,
+      "parentId": null,
+      "tags": ["compose", "ui"]
+    }
+  ],
+  "snippets": [
     {
-      "id": "compose_button",
-      "title": "Compose Button",
-      "code": "@Composable\nfun Greeting() {\n  Text(\"Hello\")\n}",
-      "language": "kotlin"
+      "id": "btn1",
+      "title": "Basic Button",
+      "code": "@Composable fun Greet() { Text(\"Hi\") }",
+      "language": "kotlin",
+      "categoryId": "ui",
+      "tags": [],
+      "context": null,
+      "categoryPath": []
     }
   ]
 }
